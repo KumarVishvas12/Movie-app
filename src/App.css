@@ -72,8 +72,11 @@ justify-content: center;
   margin-top: 1.5rem;
   display: flex;
   justify-content: center;
+  cursor: pointer;
 }
-
+.blue{
+  background-color: blue;
+}
 
 
 
