@@ -47,9 +47,12 @@ margin-right: 5vw;
 .movie-card{
   height: 40vh;
   width: 20vw;
-  
+}
+.movie-card-button{
+position: absolute;
+bottom:  2rem;
+cursor: pointer;
 
-  
 }
 .moviecard-img{
   height: 40vh;
@@ -77,8 +80,9 @@ justify-content: center;
 .fav-genres{
   padding: 3rem;
 }
-
-
+.navbar-item{
+  text-decoration: none;
+}
 
 @media screen and (max-width:455px){
   .banner-card{

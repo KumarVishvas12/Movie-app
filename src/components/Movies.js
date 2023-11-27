@@ -74,7 +74,7 @@ handleprevious = () => {
               <Poster poster={this.state.movies[0]}/>
                 <div>
                 </div>
-                <h1>Trending</h1>
+                <h1 style={{textAlign:'center'}}>Trending</h1>
                 <div className="Movie-card-container" style={{ display: 'flex', justifyContent: 'center' }}>
                   {
 
